@@ -1,0 +1,16 @@
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\bin\Debug\net5.0\MeusFilmes.exe
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\bin\Debug\net5.0\MeusFilmes.deps.json
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\bin\Debug\net5.0\MeusFilmes.runtimeconfig.json
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\bin\Debug\net5.0\MeusFilmes.runtimeconfig.dev.json
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\bin\Debug\net5.0\MeusFilmes.dll
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\bin\Debug\net5.0\ref\MeusFilmes.dll
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\bin\Debug\net5.0\MeusFilmes.pdb
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\obj\Debug\net5.0\MeusFilmes.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\obj\Debug\net5.0\MeusFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\obj\Debug\net5.0\MeusFilmes.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\obj\Debug\net5.0\MeusFilmes.AssemblyInfo.cs
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\obj\Debug\net5.0\MeusFilmes.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\obj\Debug\net5.0\MeusFilmes.dll
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\obj\Debug\net5.0\ref\MeusFilmes.dll
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\obj\Debug\net5.0\MeusFilmes.pdb
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeusFilmes\obj\Debug\net5.0\MeusFilmes.genruntimeconfig.cache
